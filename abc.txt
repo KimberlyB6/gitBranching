@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 A is the beginning letter
 =======
 b is the 2nd letter 
 >>>>>>> b
+=======
+c is the 3rd letter
+>>>>>>> c
